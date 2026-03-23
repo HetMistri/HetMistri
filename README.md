@@ -1,3 +1,24 @@
+# 💫 About Me:
+Hi, I'm Het — a CSE student building across **Web, Backend, AI/ML, and Systems**.
+
+I don't just write code — I design systems.
+
+- 🔭 Currently working on: scalable backend systems & full-stack apps  
+- 🌱 Exploring: system design, distributed systems, and applied ML  
+- ⚡ Strong focus: performance, architecture, and real-world deployment  
+- 🧠 Hackathons & rapid prototyping under pressure  
+- 💬 Ask me about: backend, APIs, system design, or anything low-level  
+
+---
+
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HetMistri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-mistri-7a52a533a/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ITS_bbmg)
+[![Devfolio](https://img.shields.io/badge/Devfolio-%23000000.svg?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@Its_Het)
+
+---
+
 # 💻 Tech Stack:
 
 ### 🧠 Core Languages
