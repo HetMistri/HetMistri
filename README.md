@@ -56,6 +56,22 @@
 
 ---
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HetMistri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HetMistri&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HetMistri&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## 🚀 What I Build:
+- Scalable backend systems (Django, Node)
+- Full-stack apps with real users (not toy projects)
+- Data-driven ML pipelines
+- Hackathon-grade rapid deployments
+
 ### ⚙️ Engineering Focus
 - System Design (HLD + LLD)  
 - API Design & Distributed Systems  
